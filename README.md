@@ -1,6 +1,6 @@
-#Introdução a CSS -webdev aula15
+# Introdução a CSS -webdev aula15
 
 Uma Introdução ao CSS
 
--sintaxe
--box model
+- sintaxe
+- box model
